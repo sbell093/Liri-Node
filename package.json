@@ -1,0 +1,24 @@
+{
+  "name": "liri-node",
+  "version": "1.0.0",
+  "description": "homework assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbell093/Liri-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbell093/Liri-Node/issues"
+  },
+  "homepage": "https://github.com/sbell093/Liri-Node#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "node-twitter-api": "^1.8.0",
+    "request": "^2.83.0"
+  }
+}
